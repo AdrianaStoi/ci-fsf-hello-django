@@ -32,7 +32,7 @@ if development:
     ALLOWED_HOSTS = ['localhost']
 else:
     ALLOWED_HOSTS = [
-        '8001-adrianastoi-ci-fsf-hello-bbvvukul37.us2.codeanyapp.com']
+        'django-st-todo-app-1bc85b227360.herokuapp.com']
 
 
 # Application definition
