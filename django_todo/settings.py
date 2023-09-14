@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.get("SECRET_KEY")
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-adrianastoi-ci-fsf-hello-bbvvukul37.us2.codeanyapp.com']
+    '8001-adrianastoi-ci-fsf-hello-bbvvukul37.us2.codeanyapp.com']
 
 
 # Application definition
